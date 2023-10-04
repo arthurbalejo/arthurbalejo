@@ -1,4 +1,4 @@
-### Hi, I'm Arthur Balejo
+### Hi, I'm Arthur
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbalejo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbalejo&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)
