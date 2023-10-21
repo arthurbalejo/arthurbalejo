@@ -2,8 +2,11 @@
 
 ##
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbalejo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbalejo&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurbalejo&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=7B68EE&bg_color=000000" alt="Arthur Balejo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbalejo&layout=compact&hide_border=true&title_color=00FF00&text_color=7B68EE&bg_color=000000" />
+</div>
+
 
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning web development and data science
@@ -17,3 +20,4 @@
   <a href = "mailto:arthurcbalejo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/arthurbalejo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
