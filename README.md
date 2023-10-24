@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning web development and data science
 - 👯 I’m currently collaborate on [Integra Project](https://www.ufsm.br/orgaos-suplementares/cpd/integra)  in my college's [Data Processing Center](https://www.ufsm.br/orgaos-suplementares/cpd)
-- ⚡ Fun fact: love play soccer, naruto and ivete sangalo
+- ⚡ Fun fact:  love to play soccer, watch naruto and listen to Ivete
   
 ##
 
