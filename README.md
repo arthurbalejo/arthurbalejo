@@ -1,10 +1,5 @@
 ### Hi, I'm Arthur
 
-##
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbalejo&layout=compact&hide_border=true&title_color=00FF00&text_color=7B68EE&bg_color=000000" />
-</div>
 
 - 🔭 I’m currently working on data science  
 - 🌱 I’m currently learning web development and data science  
