@@ -1,14 +1,58 @@
-### Hi, I'm Arthur
+```
+arthurbalejo@github ~ [session: active]
 
+$ whoami
 
-- 🔭 I’m currently working on data science  
-- 🌱 I’m currently learning web development and data science  
-- 👯 I’m currently collaborate on [Integra Project](https://www.ufsm.br/orgaos-suplementares/cpd/integra) in my college's [Data Processing Center](https://www.ufsm.br/orgaos-suplementares/cpd)  
-  
-##
+  Arthur Carvalho Balejo  .  Fullstack Dev Jr  .  Santa Maria, RS. BR
+  Engenharia de Computacao - UFSM (2021-2027)  .  Dev Jr @ PJFIT/ERP
+  Publicacao: Mineracao de Dados Educacionais p/ Predicao de Evasao - SBIE 2023
 
-<div> 
-  <a href="https://www.linkedin.com/in/arthurbalejo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:arthurcbalejo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/arthurbalejo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+$ cat stack.conf
+
+  [backend]        PHP 7.4  .  Symfony 3  .  Python  .  Flask  .  Django
+  [banco de dados] MySQL  .  DB2  .  PostgreSQL  .  SQL
+  [frontend]       jQuery  .  Bootstrap  .  DataTables  .  Select2
+  [data & ml]      Pandas  .  NumPy  .  Machine Learning  .  BERT  .  LLM
+  [bi]             Power BI  .  Google Sheets  .  Data Mining
+  [devops]         Docker  .  Git  .  GitHub  .  Linux
+  [integracoes]    Banco Inter  .  Safe2Pay  .  Sefaz NF-e/NFS-e  .  InvoiCy
+  [outras]         Java  .  REST APIs  .  Scrum  .  IOT (ESP32)
+
+$ cat experience.log
+
+  Fullstack Dev Jr  -  PJFIT (ERP Symfony/PHP)          nov/2025-presente
+    NF-e/NFS-e  .  gateway de pagamento  .  correcoes ERP
+
+  Bolsista  -  CPD UFSM / Projeto Integra                ago/2021-nov/2025
+    automacao Python  .  fine-tuning BERT  .  Power BI  .  DB2/MySQL
+
+  Extensao  -  Pulseira IOT (ESP32 + MPU6050 + MAX30102) 2025
+  Extensao  -  Iluminacao Publica Cachoeira do Sul (Flask) 2023-2024
+
+$ cat gremio.txt
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡤⠶⠚⠉⢩⣥⣤⣤⣤⣤⡍⠉⡓⠲⢤⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⠞⢉⣰⣾⣻⣻⡶⠈⠉⠉⠉⠁⢶⣻⣻⣷⣦⡈⠳⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⠞⠁⣴⣻⣻⣻⣻⡏⠁⠀⣀⣀⢀⠀⠀⠹⣻⣻⣻⣻⣷⠌⠱⣄⠀⠀⠀ 
+⠀⠀⣠⠋⣴⣻⣦⣍⡻⠿⣻⠀⠀⠒⠘⠋⠚⠚⠀⠀⢻⡿⠟⣫⣵⣾⣧⠘⣦⠀⠀ 
+⠀⢠⠏⢰⣻⣻⣻⣻⣻⣶⣦⣤⣄⣀⣀⣀⣀⣀⣀⣤⣤⣶⣾⣻⣻⣻⣻⣇⠙⡆⠀ 
+⠀⣼⠀⣻⠟⢛⠻⢿⡟⠛⠛⠻⡟⠓⠒⠛⠛⠛⣻⡿⠛⣻⢻⡿⠟⡛⠻⣻⠀⢳⠀ 
+⠀⣻⠀⡇⢸⣻⠷⠾⡇⠿⠿⢠⡇⠘⠛⢻⠀⠀⢻⠇⡆⣻⢸⠀⣾⣻⡇⢸⡇⢸⠀ 
+⠀⢻⠀⣷⣈⡛⣋⣄⣇⣻⣻⣀⣇⣘⣛⣛⣀⣸⣈⣸⣇⣻⣸⣆⣘⢛⣃⣼⠀⡼⠀ 
+⠀⠘⣆⠸⣻⣻⣻⣻⡿⠿⠛⠋⠉⠉⠉⠉⠉⠉⠉⠙⠛⠿⢿⣻⣻⣻⣻⡏⣠⠇⠀ 
+⠀⠀⠙⣄⠻⡿⠟⣋⣴⣶⣻⠀⠀⣀⣄⢤⣤⣠⠀⠀⣼⣷⣦⣍⡛⢿⡟⢠⠟⠀⠀ 
+⠀⠀⠀⠘⢦⡀⠻⣻⣻⣻⣻⣇⡀⠀⠁⠉⠀⠉⠀⣰⣻⣻⣻⣻⡿⢂⡰⠃⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠙⢦⣈⠹⢿⣻⣻⠷⢀⣀⣀⣀⡀⠾⣻⣻⡿⠟⢁⡴⠋⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⠈⠑⠶⢤⣀⣘⡛⠛⠛⠛⠛⣃⣀⡥⠴⠚⠁⠀⠀⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+  Gremio Foot-Ball Porto Alegrense
+
+$ cat links.sh
+
+  echo "github:"   https://github.com/arthurbalejo
+  echo "linkedin:" https://linkedin.com/in/arthurbalejo
+  echo "email:"    arthurcbalejo@gmail.com
+
+$ _
+```
