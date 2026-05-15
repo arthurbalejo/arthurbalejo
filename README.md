@@ -20,10 +20,10 @@
 │                                                                              │
 │  $ cat experience.log                                                        │
 │                                                                              │
-│  Fullstack Dev Jr  -  PJFIT (ERP Symfony/PHP)          nov/2025-presente     │
+│  Fullstack Dev Jr  -  PJFIT (ERP Symfony/PHP)                                │
 │    NF-e/NFS-e  .  gateway de pagamento  .  correcoes ERP                     │
 │                                                                              │
-│  Bolsista  -  CPD UFSM / Projeto Integra                ago/2021-nov/2025    │
+│  Bolsista  -  CPD UFSM / Projeto Integra                                     │
 │    automacao Python  .  fine-tuning BERT  .  Power BI  .  DB2/MySQL          │
 │                                                                              │
 │  Extensao  -  Pulseira IOT (ESP32 + MPU6050 + MAX30102) 2025                 │
